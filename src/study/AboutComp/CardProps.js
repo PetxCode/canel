@@ -1,5 +1,4 @@
 import React from "react";
-import img from "../../asset/js.png";
 
 const CardProps = ({ text, numb, img }) => {
   return (
